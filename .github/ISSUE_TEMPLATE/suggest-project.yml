@@ -8,7 +8,7 @@ body:
     attributes:
       value: |
         Suggestions are checked automatically before they are added.
-        Projects must be active, have at least 50 stars, and use C#, F#, or Visual Basic .NET.
+        Projects must be active, have at least 50 stars, and use C# as their primary language.
         Off-topic or incomplete suggestions are closed automatically.
   - type: input
     id: repo_url
@@ -32,5 +32,5 @@ body:
       options:
         - label: I searched the list and this project is not already included
           required: true
-        - label: This project uses C#, F#, or Visual Basic .NET
+        - label: This project's primary language is C#
           required: true

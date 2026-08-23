@@ -11,7 +11,7 @@ Each suggestion is checked before a maintainer reviews it. The project must:
 - Not be archived.
 - Have activity within the last 24 months.
 - Have at least 50 stars.
-- Use C#, F#, or Visual Basic .NET as its primary language.
+- Use C# as its primary language.
 
 Your GitHub account must be at least 7 days old. You can submit up to 3 suggestions per UTC day.
 
