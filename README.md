@@ -165,6 +165,7 @@
 
 - [AutoMapper](https://github.com/LuckyPennySoftware/AutoMapper): A convention-based object-object mapper in .NET.
 - [Facet](https://github.com/Tim-Maes/Facet): Generate DTOs, mappings, constructors and LINQ projections from your domain models.
+- [FastCloner](https://github.com/lofcz/FastCloner): The fastest deep cloning library for .NET – zero-config, works out of the box.
 - [FlatSharp](https://github.com/jamescourtney/FlatSharp): Fast, idiomatic C# implementation of Flatbuffers
 - [json-everything](https://github.com/json-everything/json-everything): System.Text.Json-based support for all of your JSON needs.
 - [JsonSubTypes](https://github.com/manuc66/JsonSubTypes): Discriminated Json Subtypes Converter implementation for .NET
