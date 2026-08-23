@@ -4,27 +4,28 @@
 
 ## .NET SDK & Platform Tools
 
-- [AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework): AspectCore is an AOP-based cross platform framework for .NET Standard.
-- [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net): This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our ver…
+- [Community.VisualStudio.Toolkit](https://github.com/VsixCommunity/Community.VisualStudio.Toolkit): Making it easier to write Visual Studio extensions
 - [deployment-tools](https://github.com/dotnet/deployment-tools): This repo contains the code to build the .NET deployment tools and installers for all supported platforms, as well as the sources to .NET deployment tools.
-- [DNT](https://github.com/RicoSuter/DNT): DNT (DotNetTools): Command line tools to manage .NET projects and solutions.
 - [dotnet](https://github.com/aws/dotnet): GitHub home for .NET development on AWS
-- [dotnet-repl](https://github.com/jonsequitur/dotnet-repl): A polyglot REPL built on .NET Interactive
-- [dotnet-script](https://github.com/dotnet-script/dotnet-script): Run C# scripts from the .NET CLI.
-- [extensions](https://github.com/dotnet/extensions): This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
-- [ical.net](https://github.com/ical-org/ical.net): iCal.NET - iCalendar library for .Net
+- [iced](https://github.com/icedland/iced): Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
 - [interactive](https://github.com/dotnet/interactive): .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in way…
 - [macios](https://github.com/dotnet/macios): .NET for iOS, Mac Catalyst, macOS, and tvOS provide open-source bindings of the Apple SDKs for use with .NET managed languages such as C#
-- [minio-dotnet](https://github.com/minio/minio-dotnet): MinIO Client SDK for .NET
 - [modernize-dotnet](https://github.com/dotnet/modernize-dotnet)
-- [msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet): Microsoft Graph Client Library for .NET!
-- [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite): A .NET GIS solution that is fast and reliable for the .NET platform.
-- [roslyn](https://github.com/dotnet/roslyn): The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [runtime](https://github.com/dotnet/runtime): .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
-- [setup-dotnet](https://github.com/actions/setup-dotnet): Set up your GitHub Actions workflow with a specific version of the .NET core sdk
 - [try](https://github.com/dotnet/try): Try .NET provides developers and content authors with tools to create interactive experiences.
-- [try-convert](https://github.com/dotnet/try-convert): Helping .NET developers port their projects to .NET Core!
 - [Verso](https://github.com/DataficationSDK/Verso): Extensible interactive notebook platform. Every feature is an extension built on the same public interfaces available to third party authors. Runs in VS Code and the browser.
+
+## Code Analysis & Compiler Tools
+
+- [AsyncFixer](https://github.com/semihokur/AsyncFixer): AsyncFixer: Async/Await Analyzers and Code Fixes
+- [csharpier](https://github.com/belav/csharpier): CSharpier is an opinionated code formatter for c#.
+- [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET): Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
+- [ILSpy](https://github.com/icsharpcode/ILSpy): .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+- [Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer): A powerful C# Roslyn analyzer that uses static analysis to detect bugs, surface security issues, and enforce best practices—helping developers and AI write more reliable code.
+- [roslyn](https://github.com/dotnet/roslyn): The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+- [roslynator](https://github.com/dotnet/roslynator): Roslynator is a set of code analysis tools for C#, powered by Roslyn.
+- [RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter): Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
+- [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers): An implementation of StyleCop rules using the .NET Compiler Platform
 
 ## API & Web Development
 
@@ -36,11 +37,7 @@
 - [aspnetcore-redis-rate-limiting](https://github.com/cristipufu/aspnetcore-redis-rate-limiting): Set up a Redis backplane for ASP.NET Core multi-node deployments
 - [AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks): Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 - [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit): ASP.NET Core rate limiting middleware
-- [autorest](https://github.com/Azure/autorest): OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
 - [aws-lambda-dotnet](https://github.com/aws/aws-lambda-dotnet): Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
-- [azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools): Command line tools for Azure Functions
-- [azure-functions-openapi-extension](https://github.com/Azure/azure-functions-openapi-extension): This extension provides an Azure Functions app with Open API capability for better discoverability to consuming parties
-- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs): The source for REST API specifications for Microsoft Azure.
 - [BrowserDetector](https://github.com/kshyju/BrowserDetector): Fast & light weight browser detection & device detection for asp.net core and azure functions
 - [Carter](https://github.com/CarterCommunity/Carter): Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 - [data-api-builder](https://github.com/Azure/data-api-builder): Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
@@ -48,39 +45,51 @@
 - [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints): A light-weight REST API development framework for ASP.NET 8 and newer.
 - [FeatureManagement-Dotnet](https://github.com/microsoft/FeatureManagement-Dotnet): Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within applications. Utilize this library to secure a consistent experience when developing applications that use p…
 - [Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant): MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC.
-- [FluentEmail](https://github.com/lukencode/FluentEmail): All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
 - [Flurl](https://github.com/tmenier/Flurl): Fluent URL builder and testable HTTP client for .NET
-- [GoogleApi](https://github.com/vivet/GoogleApi): C# .NET Core Google Api (Maps, Places, Roads, Search, Translate). Supports all endpoints and requests / responses.
 - [graphql-client](https://github.com/graphql-dotnet/graphql-client): A GraphQL Client for .NET Standard
 - [graphql-platform](https://github.com/ChilliCream/graphql-platform): Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro the awesome Monaco based GraphQL IDE.
+- [htmltags](https://github.com/HtmlTags/htmltags): Simple object model for generating HTML
 - [HttpUserAgentParser](https://github.com/mycsharp/HttpUserAgentParser): Parsing HTTP User Agents with .NET
-- [kiota](https://github.com/microsoft/kiota): OpenAPI based HTTP Client code generator
-- [meilisearch-dotnet](https://github.com/meilisearch/meilisearch-dotnet): .NET client for Meilisearch
 - [Middleware](https://github.com/khellang/Middleware): Various ASP.NET Core middleware
-- [MimeKit](https://github.com/jstedfast/MimeKit): A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
-- [notion-sdk-net](https://github.com/notion-dotnet/notion-sdk-net): A Notion SDK for .Net
-- [NSwag](https://github.com/RicoSuter/NSwag): The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-- [nswag-fluentvalidation](https://github.com/zymlabs/nswag-fluentvalidation): Use FluentValidation rules instead of ComponentModel attributes to define swagger schema.
-- [octokit.net](https://github.com/octokit/octokit.net): A GitHub API client library for .NET
-- [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET): The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
 - [Orchard](https://github.com/OrchardCMS/Orchard): Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform. Check out the next generation of this software built on ASP.NET Core: https://github.c…
 - [OrchardCore](https://github.com/OrchardCMS/OrchardCore): Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
 - [Polly](https://github.com/App-vNext/Polly): Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and …
 - [refit](https://github.com/reactiveui/refit): The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
-- [refitter](https://github.com/christianhelle/refitter): Generate Refit interfaces and contracts from OpenAPI (Swagger) specifications
 - [RestEase](https://github.com/canton7/RestEase): Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit
 - [RESTFulSense](https://github.com/hassanhabib/RESTFulSense): A RESTFul operations client that serializes responses and throws meaningful exceptions for \>= 400 status codes.
 - [RestSharp](https://github.com/restsharp/RestSharp): Simple REST and HTTP API Client for .NET
 - [Schema.NET](https://github.com/RehanSaeed/Schema.NET): Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head secti…
 - [ServiceStack](https://github.com/ServiceStack/ServiceStack): Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [Sieve](https://github.com/Biarity/Sieve): ⚗️ Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core
+- [ThrottlingTroll](https://github.com/ThrottlingTroll/ThrottlingTroll): Rate limiting/throttling/circuit-breaking library for ASP.NET, Azure Functions and, in fact, any .NET app. Supports Redis and many other distributed counter stores.
+
+## API Clients & Service SDKs
+
+- [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net): This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our ver…
+- [copilot-sdk](https://github.com/github/copilot-sdk): Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [GoogleApi](https://github.com/vivet/GoogleApi): C# .NET Core Google Api (Maps, Places, Roads, Search, Translate). Supports all endpoints and requests / responses.
+- [meilisearch-dotnet](https://github.com/meilisearch/meilisearch-dotnet): .NET client for Meilisearch
+- [msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet): Microsoft Graph Client Library for .NET!
+- [notion-sdk-net](https://github.com/notion-dotnet/notion-sdk-net): A Notion SDK for .Net
+- [octokit.net](https://github.com/octokit/octokit.net): A GitHub API client library for .NET
+- [openai](https://github.com/betalgo/openai): .NET library for the OpenAI service API by Betalgo Ranul
+- [openai-dotnet](https://github.com/openai/openai-dotnet): The official .NET library for the OpenAI API
 - [stripe-dotnet](https://github.com/stripe/stripe-dotnet): Stripe.net is a sync/async .NET 4.6.1+ client, and a portable class library for stripe.com.
+- [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot): .NET Client for Telegram Bot API
+
+## OpenAPI & API Tooling
+
+- [autorest](https://github.com/Azure/autorest): OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
+- [azure-functions-openapi-extension](https://github.com/Azure/azure-functions-openapi-extension): This extension provides an Azure Functions app with Open API capability for better discoverability to consuming parties
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs): The source for REST API specifications for Microsoft Azure.
+- [kiota](https://github.com/microsoft/kiota): OpenAPI based HTTP Client code generator
+- [NSwag](https://github.com/RicoSuter/NSwag): The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+- [nswag-fluentvalidation](https://github.com/zymlabs/nswag-fluentvalidation): Use FluentValidation rules instead of ComponentModel attributes to define swagger schema.
+- [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET): The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
+- [refitter](https://github.com/christianhelle/refitter): Generate Refit interfaces and contracts from OpenAPI (Swagger) specifications
 - [SwaggerUI.Themes](https://github.com/teociaps/SwaggerUI.Themes): ✨ Customize and switch dynamic themes for your Swagger API documentation instantly
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore): Swagger tools for documenting API's built on ASP.NET Core
 - [Swashbuckle.WebApi](https://github.com/domaindrivendev/Swashbuckle.WebApi): Seamlessly adds a swagger to WebApi projects!
-- [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot): .NET Client for Telegram Bot API
-- [ThrottlingTroll](https://github.com/ThrottlingTroll/ThrottlingTroll): Rate limiting/throttling/circuit-breaking library for ASP.NET, Azure Functions and, in fact, any .NET app. Supports Redis and many other distributed counter stores.
-- [yarp](https://github.com/dotnet/yarp): A toolkit for developing high-performance HTTP reverse proxy applications.
 
 ## Authentication & Security
 
@@ -95,7 +104,6 @@
 - [casbin-Casbin.NET](https://github.com/apache/casbin-Casbin.NET): An authorization library that supports access control models like ACL, RBAC, ABAC in .NET (C#)
 - [FastHashes](https://github.com/TommasoBelluzzo/FastHashes): A .NET implementation of several non-cryptographic hashes.
 - [fido2-net-lib](https://github.com/passwordless-lib/fido2-net-lib): Passkeys, FIDO2 and WebAuthn .NET library.
-- [hashids.net](https://github.com/ullmark/hashids.net): A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
 - [IdentityModel.OidcClient](https://github.com/DuendeArchive/IdentityModel.OidcClient): Certified C#/NetStandard OpenID Connect Client Library for native mobile/desktop Applications (RFC 8252)
 - [IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin): The administration for the IdentityServer4 and Asp.Net Core Identity
 - [IdentityServer8](https://github.com/alexhiggins732/IdentityServer8): DotNet 8, Identity, OpenID Connect and OAuth 2.0 Framework for ASP.NET Core Identity Server 8
@@ -114,6 +122,7 @@
 - [The.Jwt.Auth.Endpoints](https://github.com/DamienDoumer/The.Jwt.Auth.Endpoints): A package that easily adds JWT and social auth + endpoints to your ASP.net core project with minimal efforts on your side.
 - [TheIdServer](https://github.com/Aguafrommars/TheIdServer): OpenID/Connect, OAuth2, WS-Federation and SAML 2.0 server based on Duende IdentityServer and ITFoxtec Identity SAML 2.0 with its admin UI
 - [VaultSharp](https://github.com/rajanadar/VaultSharp): A comprehensive cross-platform .NET Library for HashiCorp's Vault, a secret management tool
+- [WindowsFirewallHelper](https://github.com/falahati/WindowsFirewallHelper): A class library to manage the Windows Firewall as well as adding your program to the Windows Firewall Exception list.
 - [Yubico.NET.SDK](https://github.com/Yubico/Yubico.NET.SDK): A YubiKey SDK for .NET developers
 
 ## Data Access & ORM
@@ -179,6 +188,14 @@
 - [protobuf](https://github.com/protocolbuffers/protobuf): Protocol Buffers - Google's data interchange format
 - [YamlDotNet](https://github.com/aaubry/YamlDotNet): YamlDotNet is a .NET library for YAML
 
+## Dependency Injection & Composition
+
+- [Autofac](https://github.com/autofac/Autofac): An addictive .NET IoC container
+- [Autofac.Extensions.DependencyInjection](https://github.com/autofac/Autofac.Extensions.DependencyInjection): Autofac implementation of the interfaces in Microsoft.Extensions.DependencyInjection.Abstractions, the .NET Core dependency injection abstraction.
+- [LightInject](https://github.com/seesharper/LightInject): An ultra lightweight IoC container
+- [Rebus.ServiceProvider](https://github.com/rebus-org/Rebus.ServiceProvider): 🚌 Microsoft Extensions Dependency Injection container adapter for Rebus
+- [Scrutor](https://github.com/khellang/Scrutor): Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
+
 ## Messaging & Event-Driven
 
 - [Brighter](https://github.com/BrighterCommand/Brighter): A framework for building messaging apps with .NET and C#.
@@ -191,9 +208,9 @@
 - [Mediator](https://github.com/martinothamar/Mediator): A high performance implementation of Mediator pattern in .NET using source generators.
 - [MessagePipe](https://github.com/Cysharp/MessagePipe): High performance in-memory/distributed messaging pipeline for .NET and Unity.
 - [pulsar-dotpulsar](https://github.com/apache/pulsar-dotpulsar): The official .NET client library for Apache Pulsar
+- [R3](https://github.com/Cysharp/R3): The new future of dotnet/reactive and UniRx.
 - [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client): RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.2+
 - [Rebus](https://github.com/rebus-org/Rebus): 🚌 Simple and lean service bus implementation for .NET
-- [Rebus.ServiceProvider](https://github.com/rebus-org/Rebus.ServiceProvider): 🚌 Microsoft Extensions Dependency Injection container adapter for Rebus
 - [run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc): Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount-\>
 - [SignalR](https://github.com/SignalR/SignalR): Incredibly simple real-time web for .NET
 - [streamiz](https://github.com/LGouellec/streamiz): .NET Stream Processing Library for Apache Kafka 🚀
@@ -201,6 +218,7 @@
 ## Background Jobs & Scheduling
 
 - [coravel](https://github.com/jamesmh/coravel): Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
+- [cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor): A .NET library that converts cron expressions into human readable descriptions.
 - [Cronos](https://github.com/HangfireIO/Cronos): A fully-featured .NET library for working with Cron expressions. Built with time zones in mind and intuitively handles daylight saving time transitions
 - [elsa-core](https://github.com/elsa-workflows/elsa-core): The Workflow Engine for .NET
 - [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler): Automated job scheduler with fluent interface for the .NET platform.
@@ -221,7 +239,7 @@
 - [EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor): EF Core Second Level Cache Interceptor
 - [FusionCache](https://github.com/ZiggyCreatures/FusionCache): FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features.
 - [garnet](https://github.com/microsoft/garnet): Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feat…
-- [NativeCompressions](https://github.com/Cysharp/NativeCompressions): NativeCompressions is the native binding and high-level API of ZStandard, LZ4 and OpenZL compression library for .NET and Unity.
+- [ILGPU](https://github.com/m4rs-mt/ILGPU): ILGPU JIT Compiler for high-performance .Net GPU programs
 - [NativeMemoryArray](https://github.com/Cysharp/NativeMemoryArray): Utilized native-memory backed array for .NET and Unity - over the 2GB limitation and support the modern API(IBufferWriter, ReadOnlySequence, scatter/gather I/O, etc...).
 - [SimdLinq](https://github.com/Cysharp/SimdLinq): Drop-in replacement of LINQ aggregation operations extremely faster with SIMD.
 - [Varena](https://github.com/xoofx/Varena): Varena is a .NET library that provides a fast and lightweight arena allocator using virtual memory.
@@ -232,7 +250,6 @@
 
 - [aspnetcore-grafana](https://github.com/JamesNK/aspnetcore-grafana): Grafana dashboards for ASP.NET Core metrics. The source code for the dashboards now lives at https://aka.ms/dotnet/grafana-source.
 - [attributed](https://github.com/destructurama/attributed): Use attributes to control how complex types are logged to Serilog.
-- [Core](https://github.com/castleproject/Core): Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
 - [dd-trace-dotnet](https://github.com/DataDog/dd-trace-dotnet): .NET Client Library for Datadog APM
 - [opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet): The OpenTelemetry .NET Client
 - [prometheus-net](https://github.com/prometheus-net/prometheus-net): .NET library to instrument your code with Prometheus metrics
@@ -251,15 +268,12 @@
 ## Testing & Quality
 
 - [ArchUnitNET](https://github.com/TNG/ArchUnitNET): A C# architecture test library to specify and assert architecture rules in C# for automated testing.
-- [AsyncFixer](https://github.com/semihokur/AsyncFixer): AsyncFixer: Async/Await Analyzers and Code Fixes
 - [awesome-analyzers](https://github.com/cybermaxs/awesome-analyzers): A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
 - [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance): A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
 - [Bogus](https://github.com/bchavez/Bogus): 📇 A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [coverlet](https://github.com/coverlet-coverage/coverlet): Cross platform code coverage for .NET
 - [crank](https://github.com/dotnet/crank): Benchmarking infrastructure for applications
-- [csharpier](https://github.com/belav/csharpier): CSharpier is an opinionated code formatter for c#.
-- [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET): Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
 - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy): The easy mocking library for .NET
 - [fixie](https://github.com/fixie/fixie): Ergonomic Testing for .NET
 - [FluentDocker](https://github.com/mariotoffia/FluentDocker): Use docker/podman, compose local and remote via a FluentAPI
@@ -268,7 +282,6 @@
 - [InheritDoc](https://github.com/saucecontrol/InheritDoc): Automatically replace \<inheritdoc /\> tags in .NET XML comments with inherited documentation at build time
 - [Lombok.NET](https://github.com/CollinAlpert/Lombok.NET): .NET adaptation for Java's Lombok using Source Generators.
 - [machine.specifications](https://github.com/machine/machine.specifications): Machine.Specifications is a Context/Specification framework for .NET that removes language noise and simplifies tests.
-- [Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer): A powerful C# Roslyn analyzer that uses static analysis to detect bugs, surface security issues, and enforce best practices—helping developers and AI write more reliable code.
 - [Microsoft.Learn.AzureFunctionsTesting](https://github.com/microsoft/Microsoft.Learn.AzureFunctionsTesting): This library provides a helpful framework that allows you to test your Azure Functions Http Triggers in a manner similar to how ASP.NET Core integration testing works.
 - [moq](https://github.com/devlooped/moq): The most popular and friendly mocking framework for .NET
 - [NetArchTest](https://github.com/BenMorris/NetArchTest): A fluent API for .Net that can enforce architectural rules in unit tests.
@@ -283,9 +296,7 @@
 - [Reqnroll.Rider](https://github.com/reqnroll/Reqnroll.Rider): Rider plugin for Reqnroll - open-source .NET BDD framework
 - [Reqnroll.VisualStudio](https://github.com/reqnroll/Reqnroll.VisualStudio): Visual Studio extension for Reqnroll - open-source .NET BDD framework
 - [Respawn](https://github.com/jbogard/Respawn): Intelligent database cleaner for integration tests
-- [roslynator](https://github.com/dotnet/roslynator): Roslynator is a set of code analysis tools for C#, powered by Roslyn.
 - [shouldly](https://github.com/shouldly/shouldly): Should testing for .NET—the way assertions should be!
-- [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers): An implementation of StyleCop rules using the .NET Compiler Platform
 - [testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet): A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 - [testfx](https://github.com/microsoft/testfx): This repository holds the source code of Microsoft.Testing.Platform (MTP), a lightweight alternative to VSTest, as well as MSTest adapter and framework.
 - [TUnit](https://github.com/thomhurst/TUnit): A modern, fast and flexible .NET testing framework
@@ -311,18 +322,21 @@
 - [dotnet-releaser](https://github.com/xoofx/dotnet-releaser): Easily build, run tests and coverage, cross-compile, package and publish your .NET library or application to NuGet and GitHub.
 - [DotNetCore](https://github.com/rafaelfgx/DotNetCore): .NET 10 Nuget Packages
 - [Husky.Net](https://github.com/alirezanet/Husky.Net): Lint your commit messages, run tests, format or analyze code, and perform any other checks automatically when you commit or push. 🚀
-- [Imgbot](https://github.com/imgbot/Imgbot): An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Onc…
 - [libgit2sharp](https://github.com/libgit2/libgit2sharp): Git + .NET = ❤
 - [minver](https://github.com/adamralph/minver): 🏷 Minimalist .NET packages, developed by humans, for versioning software or content using Git tags.
 - [MSBuild.Sdk.SqlProj](https://github.com/rr-wfm/MSBuild.Sdk.SqlProj): An MSBuild SDK that provides similar functionality to SQL Server Data Tools (.sqlproj) projects
 - [NuGet.Client](https://github.com/NuGet/NuGet.Client): Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
 - [nuke](https://github.com/nuke-build/nuke): 🏗 The AKEless Build System for C#/.NET
+- [ReferenceTrimmer](https://github.com/dfederm/ReferenceTrimmer): Easily identify which dependencies can be removed from a .NET project
+- [setup-dotnet](https://github.com/actions/setup-dotnet): Set up your GitHub Actions workflow with a specific version of the .NET core sdk
 - [snitch](https://github.com/spectresystems/snitch): A tool that help you find duplicate transitive package references.
+- [try-convert](https://github.com/dotnet/try-convert): Helping .NET developers port their projects to .NET Core!
 - [wix](https://github.com/wixtoolset/wix): WiX Toolset Code
 
 ## Console & CLI Tools
 
 - [awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks): Collection of tools to build beautiful command line interface in different languages
+- [azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools): Command line tools for Azure Functions
 - [cli-lab](https://github.com/dotnet/cli-lab): A guided tool will be provided to enable the controlled clean up of a system such that only the desired versions of the Runtime and SDKs remain.
 - [Cocona](https://github.com/mayuki/Cocona): Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
 - [command-line-api](https://github.com/dotnet/command-line-api): Command line parsing, invocation, and rendering of terminal output.
@@ -332,6 +346,9 @@
 - [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt): A fluent library to print out a nicely formatted table in a console application C#
 - [ConsoleTables](https://github.com/khalidabuhakmeh/ConsoleTables): Print out a nicely formatted table in a console application C#
 - [CSharpRepl](https://github.com/waf/CSharpRepl): A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
+- [DNT](https://github.com/RicoSuter/DNT): DNT (DotNetTools): Command line tools to manage .NET projects and solutions.
+- [dotnet-repl](https://github.com/jonsequitur/dotnet-repl): A polyglot REPL built on .NET Interactive
+- [dotnet-script](https://github.com/dotnet-script/dotnet-script): Run C# scripts from the .NET CLI.
 - [format](https://github.com/dotnet/format): Home for the dotnet-format command
 - [RazorConsole](https://github.com/RazorConsole/RazorConsole): Build agentic TUI applications with .NET Razor and Spectre.Console
 - [spectre.console](https://github.com/spectreconsole/spectre.console): A .NET library that makes it easier to create beautiful console applications.
@@ -353,9 +370,12 @@
 - [Downloader](https://github.com/bezzad/Downloader): Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
 - [EasyCompressor](https://github.com/mjebrahimi/EasyCompressor): ⚡An Easy-to-Use and Optimized compression library for .NET that unified several compression algorithms including LZ4, Snappy, Zstd, LZMA, Brotli, GZip, ZLib, and Deflate. This library aids in Impro…
 - [file-service](https://github.com/md-frank/file-service): ASP.NET Core based universal file server
+- [FileSignatures](https://github.com/neilharvey/FileSignatures): A small library for detecting the type of a file based on header signature (also known as magic number).
 - [FluentStorage](https://github.com/robinrodricks/FluentStorage): .NET polycloud storage framework which provides a unified polycloud API across 15+ clouds for Object manipulation, File uploads/downloads, File streaming/seeking, Directory upload/download, Object …
 - [K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4): LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net)
 - [LibDeflate.NET](https://github.com/jzebedee/LibDeflate.NET): LibDeflate.NET is a managed wrapper around libdeflate, a native library for fast, whole-buffer DEFLATE-based compression and decompression.
+- [minio-dotnet](https://github.com/minio/minio-dotnet): MinIO Client SDK for .NET
+- [NativeCompressions](https://github.com/Cysharp/NativeCompressions): NativeCompressions is the native binding and high-level API of ZStandard, LZ4 and OpenZL compression library for .NET and Unity.
 - [reedsolomon](https://github.com/egbakou/reedsolomon): Reed-Solomon Erasure Coding in C#/.NET
 - [Sep](https://github.com/nietras/Sep): World's Fastest .NET CSV Parser. Modern, minimal, fast, zero allocation, reading and writing of separated values (\`csv\`, \`tsv\` etc.). Cross-platform, trimmable and AOT/NativeAOT compatible with bla…
 - [sharpcompress](https://github.com/adamhathcock/sharpcompress): SharpCompress is a fully managed C# library to deal with many compression types and formats.
@@ -389,8 +409,8 @@
 
 - [barcodelib](https://github.com/barnhill/barcodelib): C# Barcode Image Generation Library
 - [FFMpegCore](https://github.com/rosenbjerg/FFMpegCore): A .NET FFMpeg/FFProbe wrapper for easily integrating media analysis and conversion into your C# applications
-- [ILGPU](https://github.com/m4rs-mt/ILGPU): ILGPU JIT Compiler for high-performance .Net GPU programs
 - [ImageSharp](https://github.com/SixLabors/ImageSharp): A modern, cross-platform, 2D Graphics library for .NET
+- [Imgbot](https://github.com/imgbot/Imgbot): An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Onc…
 - [Magick.NET](https://github.com/dlemstra/Magick.NET): The .NET library for ImageMagick
 - [metadata-extractor-dotnet](https://github.com/drewnoakes/metadata-extractor-dotnet): Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files
 - [net-vips](https://github.com/kleisauke/net-vips): .NET binding for libvips.
@@ -407,11 +427,14 @@
 - [DnsClient.NET](https://github.com/MichaCo/DnsClient.NET): DnsClient.NET is a simple yet very powerful and high performant open source library for the .NET Framework to do DNS lookups
 - [Enclave.FastPacket](https://github.com/enclave-networks/Enclave.FastPacket): High-performance network packet decoding and packet decoder source generator
 - [FlareSolverrSharp](https://github.com/FlareSolverr/FlareSolverrSharp): FlareSolverr .Net / Proxy server to bypass Cloudflare protection
+- [FluentEmail](https://github.com/lukencode/FluentEmail): All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
 - [FluentFTP](https://github.com/robinrodricks/FluentFTP): An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing…
 - [guerrillantp](https://github.com/robertvazan/guerrillantp): Simple NTP (SNTP) client library providing .NET applications with accurate network time.
+- [H.Pipes](https://github.com/HavenDV/H.Pipes): A simple, easy to use, strongly-typed, async wrapper around .NET named pipes.
 - [KcpTransport](https://github.com/Cysharp/KcpTransport): KcpTransport is a Pure C# implementation of RUDP for high-performance real-time network communication
 - [Lib.AspNetCore.ServerSentEvents](https://github.com/tpeczek/Lib.AspNetCore.ServerSentEvents): Lib.AspNetCore.ServerSentEvents is a library which provides Server-Sent Events (SSE) support for ASP.NET Core
 - [MailKit](https://github.com/jstedfast/MailKit): A cross-platform .NET library for IMAP, POP3, and SMTP.
+- [MimeKit](https://github.com/jstedfast/MimeKit): A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 - [Nerdbank.Streams](https://github.com/dotnet/Nerdbank.Streams): Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing
 - [netch](https://github.com/netchx/netch): A simple proxy client
 - [NetCoreServer](https://github.com/chronoxor/NetCoreServer): Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
@@ -420,6 +443,8 @@
 - [SSH.NET](https://github.com/sshnet/SSH.NET): SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
 - [TurboMqtt](https://github.com/petabridge/TurboMqtt): The fastest Message Queue Telemetry Transport (MQTT) client for .NET.
 - [websocket-client](https://github.com/Marfusios/websocket-client): 🔧 .NET/C# websocket client library
+- [whois](https://github.com/flipbit/whois): A WHOIS lookup and parsing library for .NET
+- [yarp](https://github.com/dotnet/yarp): A toolkit for developing high-performance HTTP reverse proxy applications.
 
 ## Microservices & Distributed Systems
 
@@ -430,36 +455,46 @@
 - [tye](https://github.com/dotnet/tye): Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and …
 - [wolverine](https://github.com/JasperFx/wolverine): Supercharged .NET server side development!
 
-## Localization & Internationalization
+## Globalization, Date & Time
 
+- [Holiday](https://github.com/martinjw/Holiday): Calculate Public Holidays
+- [ical.net](https://github.com/ical-org/ical.net): iCal.NET - iCalendar library for .Net
 - [libphonenumber-csharp](https://github.com/twcclegg/libphonenumber-csharp): Offical C# port of https://github.com/googlei18n/libphonenumber
+- [nodatime](https://github.com/nodatime/nodatime): A better date and time API for .NET
 - [TimeZoneConverter](https://github.com/mattjohnsonpint/TimeZoneConverter): Lightweight libraries to convert between IANA, Windows, Rails, and POSIX time zones.
 
 ## Machine Learning & AI
 
 - [autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI
 - [catalyst](https://github.com/curiosity-ai/catalyst): 🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, a…
-- [copilot-sdk](https://github.com/github/copilot-sdk): Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk): The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 - [dotnet-skills](https://github.com/managedcode/dotnet-skills): Installable .NET skill catalog and CLI for Codex, Claude Code, GitHub Copilot, and Gemini.
-- [openai](https://github.com/betalgo/openai): .NET library for the OpenAI service API by Betalgo Ranul
-- [openai-dotnet](https://github.com/openai/openai-dotnet): The official .NET library for the OpenAI API
 - [skills](https://github.com/dotnet/skills): Repository for skills to assist AI coding agents with .NET and C#
+
+## Identifier Generation
+
+- [deterministic-guid-generator](https://github.com/Informatievlaanderen/deterministic-guid-generator): Create a deterministic GUID based on namespace Guid, a string and an optional version.
+- [hashids.net](https://github.com/ullmark/hashids.net): A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.
+- [IdGen](https://github.com/RobThree/IdGen): Twitter Snowflake-alike ID generator for .Net
+- [ksuid](https://github.com/steve-warren/ksuid): K-Sortable Globally Unique IDs Library for .NET: Generate K-sortable GUIDs that maintain a balance between randomness and time-based ordering, ensuring system-wide uniqueness and minimal collisions.
+- [nanoid-net](https://github.com/codeyu/nanoid-net): .NET implementation of ai's nanoid
+- [NewId](https://github.com/phatboyg/NewId): A sequential id generator that works across nodes with no collisions
+- [NUlid](https://github.com/RobThree/NUlid): .Net ULID implementation
+- [sqids-dotnet](https://github.com/sqids/sqids-dotnet): Official .NET port of Sqids. Generate short unique IDs from numbers.
+- [StronglyTypedId](https://github.com/andrewlock/StronglyTypedId): A Rosyln-powered generator for strongly-typed IDs
+- [Ulid](https://github.com/Cysharp/Ulid): Fast .NET C# Implementation of ULID for .NET and Unity.
 
 ## Utilities & Helpers
 
 - [AngleSharp](https://github.com/AngleSharp/AngleSharp): 👼 The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
+- [AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework): AspectCore is an AOP-based cross platform framework for .NET Standard.
 - [Aspire](https://github.com/CommunityToolkit/Aspire): A community project with additional components and extensions for Aspire
 - [AsyncAwaitBestPractices](https://github.com/TheCodeTraveler/AsyncAwaitBestPractices): Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
-- [Autofac](https://github.com/autofac/Autofac): An addictive .NET IoC container
-- [Autofac.Extensions.DependencyInjection](https://github.com/autofac/Autofac.Extensions.DependencyInjection): Autofac implementation of the interfaces in Microsoft.Extensions.DependencyInjection.Abstractions, the .NET Core dependency injection abstraction.
 - [ByteSize](https://github.com/omar/ByteSize): ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
-- [Community.VisualStudio.Toolkit](https://github.com/VsixCommunity/Community.VisualStudio.Toolkit): Making it easier to write Visual Studio extensions
 - [config](https://github.com/aloneguid/config): ⚙ Config.Net - the easiest configuration framework for .NET developers. No BS.
+- [Core](https://github.com/castleproject/Core): Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
 - [cpu\_features.NET](https://github.com/toor1245/cpu_features.NET): .NET version of google/cpu\_features to get cpu info at runtime.
 - [CreditCardValidator](https://github.com/gustavo-frizzo/CreditCardValidator): A C# library for validating and generating credit card numbers.
-- [cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor): A .NET library that converts cron expressions into human readable descriptions.
-- [deterministic-guid-generator](https://github.com/Informatievlaanderen/deterministic-guid-generator): Create a deterministic GUID based on namespace Guid, a string and an optional version.
 - [DeviceId](https://github.com/MatthewKing/DeviceId): A simple library providing functionality to generate a 'device ID' that can be used to uniquely identify a computer.
 - [diffplex](https://github.com/mmanela/diffplex): DiffPlex is Netstandard 2.0+ C# library to generate textual diffs.
 - [dotenv.net](https://github.com/bolorundurowb/dotenv.net): 🔐 A library to read .env files in a .NET Core environment
@@ -469,61 +504,42 @@
 - [Enums.NET](https://github.com/TylerBrinkley/Enums.NET): Enums.NET is a high-performance type-safe .NET enum utility library
 - [error-or](https://github.com/error-or/error-or): A simple, fluent discriminated union of an error or a result.
 - [ES.FX](https://github.com/emberstack/ES.FX)
+- [extensions](https://github.com/dotnet/extensions): This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 - [Fare](https://github.com/moodmosaic/Fare): Port of Java dk.brics.automaton and xeger, mostly used for generating strings that match a specific regular expression.
 - [figgle](https://github.com/drewnoakes/figgle): ASCII banner generation for .NET
-- [FileSignatures](https://github.com/neilharvey/FileSignatures): A small library for detecting the type of a file based on header signature (also known as magic number).
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation): A popular .NET validation library for building strongly-typed validation rules.
 - [fluid](https://github.com/sebastienros/fluid): Fluid is an open-source .NET template engine based on the Liquid template language.
 - [Gridify](https://github.com/alirezanet/Gridify): Easy and optimized way to apply Filtering, Sorting, and Pagination using text-based data.
 - [grok.net](https://github.com/Marusyk/grok.net): .NET implementation of the grok 📝
 - [GuardClauses](https://github.com/ardalis/GuardClauses): A simple package with guard clause extensions.
-- [H.Pipes](https://github.com/HavenDV/H.Pipes): A simple, easy to use, strongly-typed, async wrapper around .NET named pipes.
 - [Handlebars.Net](https://github.com/Handlebars-Net/Handlebars.Net): A real .NET Handlebars engine
 - [Hardware.Info](https://github.com/Jinjinov/Hardware.Info): Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapter, printer, sound card - audio card, graphics card - video card. Hardware.Inf…
 - [HardwareInformation](https://github.com/L3tum/HardwareInformation): .NET Standard Cross-Platform Hardware Information Gatherer
-- [Holiday](https://github.com/martinjw/Holiday): Calculate Public Holidays
 - [html-agility-pack](https://github.com/zzzprojects/html-agility-pack): Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" H…
-- [htmltags](https://github.com/HtmlTags/htmltags): Simple object model for generating HTML
 - [Humanizer](https://github.com/Humanizr/Humanizer): Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [IbanNet](https://github.com/skwasjer/IbanNet): C# .NET IBAN validator, parser, builder and generator
-- [iced](https://github.com/icedland/iced): Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
 - [iCPUID](https://github.com/iAJTin/iCPUID): iCPUID is a lightweight cross-platform implementation that allows us to obtain the CPUID information. Works on Windows, Linux and Mac.
-- [IdGen](https://github.com/RobThree/IdGen): Twitter Snowflake-alike ID generator for .Net
-- [ILSpy](https://github.com/icsharpcode/ILSpy): .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-- [ksuid](https://github.com/steve-warren/ksuid): K-Sortable Globally Unique IDs Library for .NET: Generate K-sortable GUIDs that maintain a balance between randomness and time-based ordering, ensuring system-wide uniqueness and minimal collisions.
 - [language-ext](https://github.com/louthy/language-ext): C# pure functional programming framework - come and get declarative!
 - [libvlcsharp](https://github.com/videolan/libvlcsharp): Cross-platform .NET/Mono bindings for LibVLC
-- [LightInject](https://github.com/seesharper/LightInject): An ultra lightweight IoC container
 - [lucenenet](https://github.com/apache/lucenenet): Apache Lucene.NET is an open-source full-text search library written in C#, ported from the Apache Lucene project.
 - [MarkovJunior](https://github.com/mxgmn/MarkovJunior): Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [mathnet-numerics](https://github.com/mathnet/mathnet-numerics): Math.NET Numerics
 - [MiniValidation](https://github.com/DamianEdwards/MiniValidation): A minimalist validation library for .NET built atop the existing features in \`System.ComponentModel.DataAnnotations\` namespace
 - [MoreLINQ](https://github.com/morelinq/MoreLINQ): Extensions to LINQ to Objects
-- [nanoid-net](https://github.com/codeyu/nanoid-net): .NET implementation of ai's nanoid
-- [NewId](https://github.com/phatboyg/NewId): A sequential id generator that works across nodes with no collisions
-- [nodatime](https://github.com/nodatime/nodatime): A better date and time API for .NET
-- [NUlid](https://github.com/RobThree/NUlid): .Net ULID implementation
+- [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite): A .NET GIS solution that is fast and reliable for the .NET platform.
 - [OneOf](https://github.com/mcintyre321/OneOf): Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
 - [Pidgin](https://github.com/benjamin-hodgson/Pidgin): A lightweight and fast parsing library for C#.
 - [PublicApiGenerator](https://github.com/PublicApiGenerator/PublicApiGenerator): Project to generate a public API of an assembly or type (useful for semantic versioning)
 - [RandomDataGenerator](https://github.com/StefH/RandomDataGenerator): This is a configurable generator to create random data like Lorum Ipsum Text, Words, Text Patterns, First/Last Names, MAC-Addresses, IP-Addresses, Guids and DateTime.
 - [reactive](https://github.com/dotnet/reactive): The Reactive Extensions for .NET
-- [ReferenceTrimmer](https://github.com/dfederm/ReferenceTrimmer): Easily identify which dependencies can be removed from a .NET project
-- [RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter): Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
 - [Scaffolding](https://github.com/dotnet/Scaffolding): Code generators to speed up development.
 - [scriban](https://github.com/scriban/scriban): A fast, powerful, safe and lightweight scripting language and engine for .NET
-- [Scrutor](https://github.com/khellang/Scrutor): Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 - [SmartEnum](https://github.com/ardalis/SmartEnum): A base class for quickly and easily creating strongly typed enum replacements in C#.
-- [sqids-dotnet](https://github.com/sqids/sqids-dotnet): Official .NET port of Sqids. Generate short unique IDs from numbers.
-- [StronglyTypedId](https://github.com/andrewlock/StronglyTypedId): A Rosyln-powered generator for strongly-typed IDs
 - [Sylvan](https://github.com/MarkPflug/Sylvan): A collection of .NET libraries.
 - [SymSpell](https://github.com/wolfgarbe/SymSpell): SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [throw](https://github.com/amantinband/throw): A simple, fluent, extensible, and fully customizable library for throwing exceptions for projects using .NET 6+
 - [Tmds.ExecFunction](https://github.com/tmds/Tmds.ExecFunction): Execute a function in a separate process
 - [Towel](https://github.com/ZacharyPatten/Towel): Throw in the towel.
-- [Ulid](https://github.com/Cysharp/Ulid): Fast .NET C# Implementation of ULID for .NET and Unity.
 - [UnitsNet](https://github.com/angularsen/UnitsNet): Makes life working with units of measurement just a little bit better.
 - [Utf8StreamReader](https://github.com/Cysharp/Utf8StreamReader): Utf8 based StreamReader for high performance text processing.
 - [ValueOf](https://github.com/mcintyre321/ValueOf): Deal with Primitive Obsession - define ValueObjects in a single line (of C#).
-- [whois](https://github.com/flipbit/whois): A WHOIS lookup and parsing library for .NET
-- [WindowsFirewallHelper](https://github.com/falahati/WindowsFirewallHelper): A class library to manage the Windows Firewall as well as adding your program to the Windows Firewall Exception list.
