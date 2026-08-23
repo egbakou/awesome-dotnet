@@ -894,6 +894,12 @@
     "category": "Object Mapping & Serialization"
   },
   {
+    "name": "lofcz/FastCloner",
+    "url": "https://github.com/lofcz/FastCloner",
+    "description": "The fastest deep cloning library for .NET – zero-config, works out of the box.",
+    "category": "Object Mapping & Serialization"
+  },
+  {
     "name": "jamescourtney/FlatSharp",
     "url": "https://github.com/jamescourtney/FlatSharp",
     "description": "Fast, idiomatic C# implementation of Flatbuffers",
