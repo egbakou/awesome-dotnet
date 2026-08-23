@@ -1,0 +1,36 @@
+name: Suggest a .NET project
+description: Suggest a project to add to the Awesome .NET list
+title: "[Suggestion] "
+labels:
+  - pending-review
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggestions are checked automatically before they are added.
+        Projects must be active, have at least 50 stars, and use C#, F#, or Visual Basic .NET.
+        Off-topic or incomplete suggestions are closed automatically.
+  - type: input
+    id: repo_url
+    attributes:
+      label: Repository URL
+      description: Link to the GitHub repository you want to suggest
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Why should it be included?
+      description: Optional details that can help us categorize the project
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched the list and this project is not already included
+          required: true
+        - label: This project uses C#, F#, or Visual Basic .NET
+          required: true
