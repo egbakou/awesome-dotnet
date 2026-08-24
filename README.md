@@ -2,6 +2,8 @@
 
 > This file is generated. [Suggest a .NET project](https://github.com/egbakou/awesome-dotnet/issues/new?template=suggest-project.yml).
 
+[![Search and filter Awesome .NET projects](.github/assets/awesome-dotnet-search.png)](https://lioncoding.com/awesome-dotnet)
+
 ## .NET SDK & Platform Tools
 
 - [Community.VisualStudio.Toolkit](https://github.com/VsixCommunity/Community.VisualStudio.Toolkit): Making it easier to write Visual Studio extensions
