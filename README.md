@@ -361,6 +361,7 @@
 - [FluentAvalonia](https://github.com/amwx/FluentAvalonia): Control library focused on fluent design and bringing more WinUI controls into Avalonia
 - [LiveCharts2](https://github.com/Live-Charts/LiveCharts2): Beautiful, interactive charts, maps, and gauges. One API for every .NET UI framework.
 - [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit): Google's Material Design in XAML & WPF, for C# & VB.Net.
+- [microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml): WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 - [MudBlazor](https://github.com/MudBlazor/MudBlazor): Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.
 - [wpfui](https://github.com/lepoco/wpfui): WPF UI provides the Fluent experience in your known and loved WPF framework. Intuitive design, themes, navigation and new immersive controls. All natively and effortlessly.
 - [XenoAtom.Terminal.UI](https://github.com/XenoAtom/XenoAtom.Terminal.UI): XenoAtom.Terminal.UI is a modern, reactive retained-mode terminal UI framework for .NET
