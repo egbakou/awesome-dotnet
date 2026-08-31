@@ -1842,6 +1842,12 @@
     "category": "UI & Desktop Frameworks"
   },
   {
+    "name": "microsoft/microsoft-ui-xaml",
+    "url": "https://github.com/microsoft/microsoft-ui-xaml",
+    "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
+    "category": "UI & Desktop Frameworks"
+  },
+  {
     "name": "MudBlazor/MudBlazor",
     "url": "https://github.com/MudBlazor/MudBlazor",
     "description": "Blazor Component Library based on Material Design principles. Do more with Blazor, utilizing CSS and keeping JavaScript to a bare minimum.",
