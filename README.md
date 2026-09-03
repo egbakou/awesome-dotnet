@@ -395,7 +395,7 @@
 - [ClosedXML](https://github.com/ClosedXML/ClosedXML): ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXM…
 - [ExcelMapper](https://github.com/mganss/ExcelMapper): An Excel to object mapper. Maps POCOs to and from Excel. Configuration via convention, attributes, or fluent methods.
 - [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE): Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
-- [MiniExcel](https://github.com/mini-software/MiniExcel): Lightweight, fast and simple cross-platform processing tool for importing and exporting spreadsheet documents. Built in .NET & Rust.
+- [MiniExcel](https://github.com/mini-software/MiniExcel): Lightweight, fast and simple cross-platform processing tool for importing and exporting spreadsheet documents. Built in .NET.
 - [mjml-net](https://github.com/SebastianStehle/mjml-net): .NET Fork of MJML library with 10x performance and 100% feature parity
 - [npoi](https://github.com/nissl-lab/npoi): a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 - [Npoi.Mapper](https://github.com/donnytian/Npoi.Mapper): Use this tool to import or export data with Excel file. The tool is a convention based mapper between strong typed object and Excel data via NPOI.

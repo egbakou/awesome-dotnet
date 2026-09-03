@@ -2012,7 +2012,7 @@
   {
     "name": "mini-software/MiniExcel",
     "url": "https://github.com/mini-software/MiniExcel",
-    "description": "Lightweight, fast and simple cross-platform processing tool for importing and exporting spreadsheet documents. Built in .NET & Rust.",
+    "description": "Lightweight, fast and simple cross-platform processing tool for importing and exporting spreadsheet documents. Built in .NET.",
     "category": "Office & Documents"
   },
   {
