@@ -266,7 +266,7 @@
   {
     "name": "reactiveui/refit",
     "url": "https://github.com/reactiveui/refit",
-    "description": "The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.",
+    "description": "The automatic type-safe REST library for .NET. Refit turns a REST API into a C# interface and generates the HttpClient implementation, with support for HttpClientFactory, pluggable serializers and …",
     "category": "API & Web Development"
   },
   {
