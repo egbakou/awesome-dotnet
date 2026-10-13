@@ -471,7 +471,7 @@
 - [autogen](https://github.com/microsoft/autogen): A programming framework for agentic AI
 - [catalyst](https://github.com/curiosity-ai/catalyst): 🚀 Catalyst is a C# Natural Language Processing library built for speed. Inspired by spaCy's design, it brings pre-trained models, out-of-the box support for training word and document embeddings, a…
 - [csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk): The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
-- [dotnet-skills](https://github.com/managedcode/dotnet-skills): Installable .NET skill catalog and CLI for Codex, Claude Code, GitHub Copilot, and Gemini.
+- [dotnet-skills](https://github.com/managedcode/dotnet-skills): One of the largest .NET-focused skill collections for AI coding assistants, with a catalog, CLI, and orchestration agents for Codex, Claude Code, GitHub Copilot, Gemini, and Junie.
 - [skills](https://github.com/dotnet/skills): Repository for skills to assist AI coding agents with .NET and C#
 
 ## Identifier Generation

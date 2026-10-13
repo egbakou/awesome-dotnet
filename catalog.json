@@ -2378,7 +2378,7 @@
   {
     "name": "managedcode/dotnet-skills",
     "url": "https://github.com/managedcode/dotnet-skills",
-    "description": "Installable .NET skill catalog and CLI for Codex, Claude Code, GitHub Copilot, and Gemini.",
+    "description": "One of the largest .NET-focused skill collections for AI coding assistants, with a catalog, CLI, and orchestration agents for Codex, Claude Code, GitHub Copilot, Gemini, and Junie.",
     "category": "Machine Learning & AI"
   },
   {
