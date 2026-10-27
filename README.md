@@ -133,6 +133,7 @@
 - [DacFx](https://github.com/microsoft/DacFx): DacFx, SqlPackage, and other SQL development libraries enable declarative database development and database portability across SQL versions and environments. Share feedback here on dacpacs, bacpacs…
 - [Dapper](https://github.com/DapperLib/Dapper): Dapper - a simple object mapper for .Net
 - [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions): Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions pr…
+- [Dapper-FluentMap](https://github.com/rodri-oliveira-dev/Dapper-FluentMap): Fluent mapping for Dapper, with conventions, immutable object materialization, analyzers, source generators, DI integration, and Dommel support.
 - [DbUp](https://github.com/DbUp/DbUp): DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database …
 - [DuckDB.NET](https://github.com/Giorgi/DuckDB.NET): Bindings and ADO.NET Provider for DuckDB
 - [efcore](https://github.com/dotnet/efcore): EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
@@ -276,6 +277,7 @@
 - [Bogus](https://github.com/bchavez/Bogus): 📇 A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [coverlet](https://github.com/coverlet-coverage/coverlet): Cross platform code coverage for .NET
 - [crank](https://github.com/dotnet/crank): Benchmarking infrastructure for applications
+- [CsCheck](https://github.com/AnthonyLloyd/CsCheck): Random testing library for C#
 - [FakeItEasy](https://github.com/FakeItEasy/FakeItEasy): The easy mocking library for .NET
 - [fixie](https://github.com/fixie/fixie): Ergonomic Testing for .NET
 - [FluentDocker](https://github.com/mariotoffia/FluentDocker): Use docker/podman, compose local and remote via a FluentAPI

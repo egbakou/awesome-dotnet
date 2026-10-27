@@ -654,6 +654,12 @@
     "category": "Data Access & ORM"
   },
   {
+    "name": "rodri-oliveira-dev/Dapper-FluentMap",
+    "url": "https://github.com/rodri-oliveira-dev/Dapper-FluentMap",
+    "description": "Fluent mapping for Dapper, with conventions, immutable object materialization, analyzers, source generators, DI integration, and Dommel support.",
+    "category": "Data Access & ORM"
+  },
+  {
     "name": "DbUp/DbUp",
     "url": "https://github.com/DbUp/DbUp",
     "description": "DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database …",
@@ -1383,6 +1389,12 @@
     "name": "dotnet/crank",
     "url": "https://github.com/dotnet/crank",
     "description": "Benchmarking infrastructure for applications",
+    "category": "Testing & Quality"
+  },
+  {
+    "name": "AnthonyLloyd/CsCheck",
+    "url": "https://github.com/AnthonyLloyd/CsCheck",
+    "description": "Random testing library for C#",
     "category": "Testing & Quality"
   },
   {
