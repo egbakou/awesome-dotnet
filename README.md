@@ -383,7 +383,7 @@
 - [minio-dotnet](https://github.com/minio/minio-dotnet): MinIO Client SDK for .NET
 - [NativeCompressions](https://github.com/Cysharp/NativeCompressions): NativeCompressions is the native binding and high-level API of ZStandard, LZ4 and OpenZL compression library for .NET and Unity.
 - [reedsolomon](https://github.com/egbakou/reedsolomon): Reed-Solomon Erasure Coding in C#/.NET
-- [Sep](https://github.com/nietras/Sep): World's Fastest .NET CSV Parser. Modern, minimal, fast, zero allocation, reading and writing of separated values (\`csv\`, \`tsv\` etc.). Cross-platform, trimmable and AOT/NativeAOT compatible with bla…
+- [Sep](https://github.com/nietras/Sep): One of the World's Fastest .NET CSV Parsers. Modern, minimal, fast, zero allocation, reading and writing of separated values (\`csv\`, \`tsv\` etc.). Cross-platform, trimmable and AOT/NativeAOT compati…
 - [sharpcompress](https://github.com/adamhathcock/sharpcompress): SharpCompress is a fully managed C# library to deal with many compression types and formats.
 - [SharpExt4](https://github.com/nickdu088/SharpExt4): A .Net library to provide full access (read/write) to Linux ext2/ext3/ext4 filesystem
 - [SharpZipLib](https://github.com/icsharpcode/SharpZipLib): #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
