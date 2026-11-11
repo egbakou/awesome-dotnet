@@ -194,7 +194,7 @@
   {
     "name": "FastEndpoints/FastEndpoints",
     "url": "https://github.com/FastEndpoints/FastEndpoints",
-    "description": "A light-weight REST API development framework for ASP.NET 8 and newer.",
+    "description": "A light-weight REST API development framework for ASP.NET 10 and newer.",
     "category": "API & Web Development"
   },
   {
@@ -1664,7 +1664,7 @@
   {
     "name": "rafaelfgx/DotNetCore",
     "url": "https://github.com/rafaelfgx/DotNetCore",
-    "description": ".NET 10 Nuget Packages",
+    "description": ".NET Nuget Packages",
     "category": "Build & Deployment"
   },
   {
@@ -2493,12 +2493,6 @@
     "name": "omar/ByteSize",
     "url": "https://github.com/omar/ByteSize",
     "description": "ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.",
-    "category": "Utilities & Helpers"
-  },
-  {
-    "name": "aloneguid/config",
-    "url": "https://github.com/aloneguid/config",
-    "description": "⚙ Config.Net - the easiest configuration framework for .NET developers. No BS.",
     "category": "Utilities & Helpers"
   },
   {

@@ -44,7 +44,7 @@
 - [Carter](https://github.com/CarterCommunity/Carter): Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 - [data-api-builder](https://github.com/Azure/data-api-builder): Data API builder provides modern REST, GraphQL endpoints and MCP tools to your Azure Databases and on-prem stores.
 - [DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET): The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
-- [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints): A light-weight REST API development framework for ASP.NET 8 and newer.
+- [FastEndpoints](https://github.com/FastEndpoints/FastEndpoints): A light-weight REST API development framework for ASP.NET 10 and newer.
 - [FeatureManagement-Dotnet](https://github.com/microsoft/FeatureManagement-Dotnet): Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within applications. Utilize this library to secure a consistent experience when developing applications that use p…
 - [Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant): MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC.
 - [Flurl](https://github.com/tmenier/Flurl): Fluent URL builder and testable HTTP client for .NET
@@ -325,7 +325,7 @@
 - [dotnet-docker](https://github.com/dotnet/dotnet-docker): Official container images for .NET
 - [dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated): A .NET Core global tool to display and update outdated NuGet packages in a project
 - [dotnet-releaser](https://github.com/xoofx/dotnet-releaser): Easily build, run tests and coverage, cross-compile, package and publish your .NET library or application to NuGet and GitHub.
-- [DotNetCore](https://github.com/rafaelfgx/DotNetCore): .NET 10 Nuget Packages
+- [DotNetCore](https://github.com/rafaelfgx/DotNetCore): .NET Nuget Packages
 - [Husky.Net](https://github.com/alirezanet/Husky.Net): Lint your commit messages, run tests, format or analyze code, and perform any other checks automatically when you commit or push. 🚀
 - [libgit2sharp](https://github.com/libgit2/libgit2sharp): Git + .NET = ❤
 - [minver](https://github.com/adamralph/minver): 🏷 Minimalist .NET packages, developed by humans, for versioning software or content using Git tags.
@@ -497,7 +497,6 @@
 - [Aspire](https://github.com/CommunityToolkit/Aspire): A community project with additional components and extensions for Aspire
 - [AsyncAwaitBestPractices](https://github.com/TheCodeTraveler/AsyncAwaitBestPractices): Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
 - [ByteSize](https://github.com/omar/ByteSize): ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
-- [config](https://github.com/aloneguid/config): ⚙ Config.Net - the easiest configuration framework for .NET developers. No BS.
 - [Core](https://github.com/castleproject/Core): Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter
 - [cpu\_features.NET](https://github.com/toor1245/cpu_features.NET): .NET version of google/cpu\_features to get cpu info at runtime.
 - [CreditCardValidator](https://github.com/gustavo-frizzo/CreditCardValidator): A C# library for validating and generating credit card numbers.
