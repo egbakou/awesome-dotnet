@@ -69,7 +69,7 @@
 ## API Clients & Service SDKs
 
 - [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net): This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our ver…
-- [copilot-sdk](https://github.com/github/copilot-sdk): Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [copilot-sdk](https://github.com/microsoft/copilot-sdk): Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [GoogleApi](https://github.com/vivet/GoogleApi): C# .NET Core Google Api (Maps, Places, Roads, Search, Translate). Supports all endpoints and requests / responses.
 - [meilisearch-dotnet](https://github.com/meilisearch/meilisearch-dotnet): .NET client for Meilisearch
 - [msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet): Microsoft Graph Client Library for .NET!
