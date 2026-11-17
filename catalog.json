@@ -324,8 +324,8 @@
     "category": "API Clients & Service SDKs"
   },
   {
-    "name": "github/copilot-sdk",
-    "url": "https://github.com/github/copilot-sdk",
+    "name": "microsoft/copilot-sdk",
+    "url": "https://github.com/microsoft/copilot-sdk",
     "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
     "category": "API Clients & Service SDKs"
   },
