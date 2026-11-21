@@ -710,7 +710,7 @@
   {
     "name": "Giorgi/EFCore.Visualizer",
     "url": "https://github.com/Giorgi/EFCore.Visualizer",
-    "description": "Entity Framework Core queries debugger visualizer.",
+    "description": "Entity Framework Core queries debugger visualizer for Visual Studio, VS Code, Rider and LINQPad.",
     "category": "Data Access & ORM"
   },
   {
