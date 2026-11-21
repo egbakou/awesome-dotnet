@@ -142,7 +142,7 @@
 - [EFCore.CheckConstraints](https://github.com/efcore/EFCore.CheckConstraints): An Entity Framework Core plugin to automatically add check constraints in various situations
 - [EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions): Entity Framework Core plugin to apply naming conventions to table and column names (e.g. snake\_case)
 - [efcore.pg](https://github.com/npgsql/efcore.pg): Entity Framework Core provider for PostgreSQL
-- [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer): Entity Framework Core queries debugger visualizer.
+- [EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer): Entity Framework Core queries debugger visualizer for Visual Studio, VS Code, Rider and LINQPad.
 - [EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools): Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
 - [elasticsearch-net](https://github.com/elastic/elasticsearch-net): This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
 - [EntityCloner.Microsoft.EntityFrameworkCore](https://github.com/HenkKin/EntityCloner.Microsoft.EntityFrameworkCore): Cloning entities using Microsoft.EntityFrameworkCore
