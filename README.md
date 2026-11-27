@@ -275,6 +275,7 @@
 - [awesome-analyzers](https://github.com/cybermaxs/awesome-analyzers): A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
 - [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance): A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet): Powerful .NET library for benchmarking
+- [NBomber](https://nbomber.com/): Load testing framework for .NET
 - [Bogus](https://github.com/bchavez/Bogus): 📇 A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [coverlet](https://github.com/coverlet-coverage/coverlet): Cross platform code coverage for .NET
 - [crank](https://github.com/dotnet/crank): Benchmarking infrastructure for applications
